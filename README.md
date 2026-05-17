@@ -8,10 +8,12 @@ My work connects molecular biology, sequencing, bioinformatics, SOPs, dashboards
 
 ## Featured workflows
 
+- [Pathogen genomics portfolio map](https://adnanhaider81.github.io/portfolio-map.html) - one-page map linking repositories to methods areas and public-health genomics skills.
 - [DDNS MinION VP1 analysis pipeline](https://github.com/adnanhaider81/ddns-minion-vp1-pipeline) - ONT MinION barcode-folder review against VP1 references with tabular and HTML reports.
 - [Polio whole-capsid NGS surveillance workflow](https://github.com/adnanhaider81/polio-capsid-ngs-analysis) - Illumina whole-capsid QC, mapping, consensus, antigenic-site analysis, phylogeny, and statistics.
 - [WPV1 phylodynamics and phylogeography workflow](https://github.com/adnanhaider81/polio-wpv1-phylodynamics) - R workflow for VP1 tree building, time scaling, movement summaries, and synthetic-data demonstration.
 - [Pathogen discovery and confirmatory mapping pipeline](https://github.com/adnanhaider81/pathogen-discovery-pipeline) - host subtraction and competitive mapping for cautious metagenomic interpretation.
+- [Viral genomics Nextflow demo](https://github.com/adnanhaider81/viral-genomics-nextflow-demo) - compact DSL2 workflow from toy FASTQ to QC, mapped BAM, depth table, consensus FASTA, and HTML/Quarto report.
 - [Pakistan SARS-CoV-2 Nextstrain build workflow](https://github.com/adnanhaider81/pakistan-sars-cov-2-nextstrain-build) - reproducible profile and publishing workflow for a public Nextstrain community dataset.
 - [Pathogen genomics blog and portfolio](https://adnanhaider81.github.io/) - research notes, workflow write-ups, and public portfolio.
 
