@@ -17,13 +17,13 @@ My work connects molecular biology, sequencing, bioinformatics, SOPs, dashboards
 
 ## Publication-linked software
 
-- [Coxsackievirus A24 variant outbreak genomics, Islamabad 2023](https://github.com/adnanhaider81/cva24v-ahc-2023-analysis) - Journal of Virological Methods, 2025.
-- [CCHFV segmented genome analysis, Pakistan 2022](https://github.com/adnanhaider81/cchfv-segmented-analysis-2022-pakistan) - Journal of Medical Virology, 2023.
-- [Dengue virus genomic diversity workflow, Pakistan 2023](https://github.com/adnanhaider81/denv-2023-pakistan-analysis) - Journal of Medical Virology, 2024.
-- [Mumps virus genotype G outbreak genomics, Islamabad 2023](https://github.com/adnanhaider81/mumps-2023-pakistan-analysis) - Future Virology, 2024.
-- [Mpox and varicella-zoster coinfection genomics, Pakistan 2023](https://github.com/adnanhaider81/mpox-vzv-coinfection-2023-pakistan) - Journal of Medical Virology, 2023.
-- [RSV outbreak genomics workflow, Islamabad 2022-2023](https://github.com/adnanhaider81/rsv-islamabad-2022-2023-pipeline) - Archives of Virology, 2024.
-- [SARS-CoV-2 fourth-wave genomics workflow, Pakistan 2021](https://github.com/adnanhaider81/sarscov2-fourth-wave-2021-pakistan) - Journal of Medical Virology, 2022.
+- [Coxsackievirus A24 variant outbreak genomics, Islamabad 2023](https://github.com/adnanhaider81/cva24v-ahc-2023-analysis) - Journal of Virological Methods, 2025; paper DOI: [10.1016/j.jviromet.2025.115213](https://doi.org/10.1016/j.jviromet.2025.115213).
+- [CCHFV segmented genome analysis, Pakistan 2022](https://github.com/adnanhaider81/cchfv-segmented-analysis-2022-pakistan) - Journal of Medical Virology, 2023; paper DOI: [10.1002/jmv.28604](https://doi.org/10.1002/jmv.28604).
+- [Dengue virus genomic diversity workflow, Pakistan 2023](https://github.com/adnanhaider81/denv-2023-pakistan-analysis) - Journal of Medical Virology, 2024; paper DOI: [10.1002/jmv.29727](https://doi.org/10.1002/jmv.29727).
+- [Mumps virus genotype G outbreak genomics, Islamabad 2023](https://github.com/adnanhaider81/mumps-2023-pakistan-analysis) - Future Virology, 2024; paper DOI: [10.2217/fvl-2023-0145](https://doi.org/10.2217/fvl-2023-0145).
+- [Mpox and varicella-zoster coinfection genomics, Pakistan 2023](https://github.com/adnanhaider81/mpox-vzv-coinfection-2023-pakistan) - Journal of Medical Virology, 2023; paper DOI: [10.1002/jmv.29037](https://doi.org/10.1002/jmv.29037).
+- [RSV outbreak genomics workflow, Islamabad 2022-2023](https://github.com/adnanhaider81/rsv-islamabad-2022-2023-pipeline) - Archives of Virology, 2024; paper DOI: [10.1007/s00705-024-06036-0](https://doi.org/10.1007/s00705-024-06036-0).
+- [SARS-CoV-2 fourth-wave genomics workflow, Pakistan 2021](https://github.com/adnanhaider81/sarscov2-fourth-wave-2021-pakistan) - Journal of Medical Virology, 2022; paper DOI: [10.1002/jmv.27957](https://doi.org/10.1002/jmv.27957).
 
 ## Current interests
 
