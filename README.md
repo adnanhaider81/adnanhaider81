@@ -1,0 +1,32 @@
+# Syed Adnan Haider
+
+Pathogen genomics | Environmental surveillance | Public-health bioinformatics | ONT/Illumina workflows
+
+I build bench-to-report workflows for viral genomic surveillance, with a focus on poliovirus, wastewater and environmental surveillance, outbreak genomics, Oxford Nanopore, Illumina sequencing, phylogenetics, and reproducible public-health bioinformatics.
+
+My work connects molecular biology, sequencing, bioinformatics, SOPs, dashboards, and technical reporting so genomic surveillance can be implemented in resource-limited public-health laboratories.
+
+## Featured workflows
+
+- [DDNS MinION VP1 pipeline](https://github.com/adnanhaider81/ddns-minion-vp1-pipeline) - ONT MinION barcode-folder review against VP1 references with tabular and HTML reports.
+- [Polio whole-capsid NGS analysis](https://github.com/adnanhaider81/polio-capsid-ngs-analysis) - Illumina whole-capsid QC, mapping, consensus, antigenic-site analysis, phylogeny, and statistics.
+- [WPV1 phylodynamics and phylogeography](https://github.com/adnanhaider81/polio-wpv1-phylodynamics) - R workflow for VP1 tree building, time scaling, movement summaries, and synthetic-data demonstration.
+- [Pathogen discovery and confirmatory mapping](https://github.com/adnanhaider81/pathogen-discovery-pipeline) - host subtraction and competitive mapping for cautious metagenomic interpretation.
+- [Pakistan SARS-CoV-2 Nextstrain build](https://github.com/adnanhaider81/pakistan-sars-cov-2-nextstrain-build) - reproducible profile and publishing workflow for a public Nextstrain community dataset.
+- [Pathogen genomics blog and portfolio](https://adnanhaider81.github.io/) - research notes, workflow write-ups, and public portfolio.
+
+## Current interests
+
+- Culture-free poliovirus detection
+- Wastewater and environmental surveillance
+- Viral metagenomics
+- Reproducible genomics workflows
+- Capacity building for LMIC public-health laboratories
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/sahaider/)
+- [Google Scholar](https://scholar.google.com/citations?user=EGyDc4kAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0009-0008-7426-6561)
+- [ResearchGate](https://www.researchgate.net/profile/Syed-Haider/research)
+- [Blog](https://adnanhaider81.github.io/)
