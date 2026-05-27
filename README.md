@@ -6,6 +6,16 @@ I build bench-to-report workflows for viral genomic surveillance, with a focus o
 
 My work connects molecular biology, sequencing, bioinformatics, SOPs, dashboards, and technical reporting so genomic surveillance can be implemented in resource-limited public-health laboratories.
 
+## Quality & Traceability Evidence
+
+I maintain a public-safe evidence package showing how I convert NGS and pathogen-genomics workflow implementation into traceable, reviewable outputs: QC/reportability checklists, sample-to-report templates, contamination-review records, verification-summary templates, training/handover checklists, GitHub/Zenodo release metadata, and protocols.io-ready materials.
+
+Start here:
+- Quality & Traceability Evidence Repository: [adnanhaider81/quality-traceability-pathogen-genomics](https://github.com/adnanhaider81/quality-traceability-pathogen-genomics)
+- Portfolio Evidence Page: pending portfolio PR merge
+- protocols.io Collection: pending DOI/link
+- Zenodo Release: pending DOI/link
+
 ## Featured workflows
 
 - [Pathogen genomics portfolio map](https://adnanhaider81.github.io/portfolio-map.html) - one-page map linking repositories to methods areas and public-health genomics skills.
