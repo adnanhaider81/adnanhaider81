@@ -6,6 +6,23 @@ I build bench-to-report workflows for viral genomic surveillance, with a focus o
 
 My work connects molecular biology, sequencing, bioinformatics, SOPs, dashboards, and technical reporting so genomic surveillance can be implemented in resource-limited public-health laboratories.
 
+## Abbreviations
+
+| Term | Meaning |
+| --- | --- |
+| DDNS | Direct Detection by Nanopore Sequencing for Poliovirus Surveillance |
+| ONT | Oxford Nanopore Technologies |
+| NGS | Next-generation sequencing |
+| VP1 | Viral protein 1, a key poliovirus typing region |
+| WPV1 | Wild poliovirus type 1 |
+| SARS-CoV-2 | Severe acute respiratory syndrome coronavirus 2 |
+| RSV | Respiratory syncytial virus |
+| CCHFV | Crimean-Congo hemorrhagic fever virus |
+| DENV | Dengue virus |
+| CV-A24v | Coxsackievirus A24 variant |
+| LMIC | Low- and middle-income country |
+| SOP | Standard operating procedure |
+
 ## Featured workflows
 
 - [Pathogen genomics portfolio map](https://adnanhaider81.github.io/portfolio-map.html) - one-page map linking repositories to methods areas and public-health genomics skills.
