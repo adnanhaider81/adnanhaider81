@@ -1,61 +1,51 @@
 # Syed Adnan Haider
 
-Pathogen genomics | Environmental surveillance | Public-health bioinformatics | ONT/Illumina workflows
+**Research scientist in pathogen genomics, connecting molecular biology and sequencing with reproducible bioinformatics for public-health surveillance.**
 
-I build bench-to-report workflows for viral genomic surveillance, with a focus on poliovirus, wastewater and environmental surveillance, outbreak genomics, Oxford Nanopore, Illumina sequencing, phylogenetics, and reproducible public-health bioinformatics.
+[![Portfolio](https://img.shields.io/badge/Portfolio-syedadnanhaider.com-0B3D91?style=flat-square)](https://syedadnanhaider.com/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=EGyDc4kAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--7426--6561-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-7426-6561)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahaider-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahaider/)
+[![Nextstrain](https://img.shields.io/badge/Nextstrain-Pakistan%20build-008080?style=flat-square)](https://nextstrain.org/community/NIH-BIGVI-PAKISTAN/ncov/Pakistan)
 
-My work connects molecular biology, sequencing, bioinformatics, SOPs, dashboards, and technical reporting so genomic surveillance can be implemented in resource-limited public-health laboratories.
+I work in the **Department of Virology, National Institute of Health, Islamabad, Pakistan**. My work connects molecular biology, Illumina and Oxford Nanopore sequencing, reproducible bioinformatics, phylogenetics, dashboards, standard operating procedures and technical reporting for public-health laboratories.
 
-## Abbreviations
+## Bench → code → evidence
 
-| Term | Meaning |
-| --- | --- |
-| DDNS | Direct Detection by Nanopore Sequencing for Poliovirus Surveillance |
-| ONT | Oxford Nanopore Technologies |
-| NGS | Next-generation sequencing |
-| VP1 | Viral protein 1, a key poliovirus typing region |
-| WPV1 | Wild poliovirus type 1 |
-| SARS-CoV-2 | Severe acute respiratory syndrome coronavirus 2 |
-| RSV | Respiratory syncytial virus |
-| CCHFV | Crimean-Congo hemorrhagic fever virus |
-| DENV | Dengue virus |
-| CV-A24v | Coxsackievirus A24 variant |
-| LMIC | Low- and middle-income country |
-| SOP | Standard operating procedure |
+- **Molecular and sequencing workflows:** molecular biology, Illumina sequencing and Oxford Nanopore sequencing.
+- **Reproducible analysis:** quality control, mapping and assembly, consensus generation, phylogenetics, Nextstrain, Snakemake and Nextflow.
+- **Public-health translation:** dashboards, standard operating procedures, technical reporting and hands-on training.
 
-## Featured workflows
+## Selected repositories
 
-- [Pathogen genomics portfolio map](https://adnanhaider81.github.io/portfolio-map.html) - one-page map linking repositories to methods areas and public-health genomics skills.
-- [DDNS MinION VP1 analysis pipeline](https://github.com/adnanhaider81/ddns-minion-vp1-pipeline) - ONT MinION barcode-folder review against VP1 references with tabular and HTML reports.
-- [Polio whole-capsid NGS surveillance workflow](https://github.com/adnanhaider81/polio-capsid-ngs-analysis) - Illumina whole-capsid QC, mapping, consensus, antigenic-site analysis, phylogeny, and statistics.
-- [WPV1 phylodynamics and phylogeography workflow](https://github.com/adnanhaider81/polio-wpv1-phylodynamics) - R workflow for VP1 tree building, time scaling, movement summaries, and synthetic-data demonstration.
-- [Pathogen discovery and confirmatory mapping pipeline](https://github.com/adnanhaider81/pathogen-discovery-pipeline) - host subtraction and competitive mapping for cautious metagenomic interpretation.
-- [Viral genomics Nextflow demo](https://github.com/adnanhaider81/viral-genomics-nextflow-demo) - compact DSL2 workflow from toy FASTQ to QC, mapped BAM, depth table, consensus FASTA, and HTML/Quarto report.
-- [Pakistan SARS-CoV-2 Nextstrain build workflow](https://github.com/adnanhaider81/pakistan-sars-cov-2-nextstrain-build) - reproducible profile and publishing workflow for a public Nextstrain community dataset.
-- [Pathogen genomics blog and portfolio](https://adnanhaider81.github.io/) - research notes, workflow write-ups, and public portfolio.
+| Project | What it demonstrates | Evidence |
+| --- | --- | --- |
+| [DDNS MinION VP1 Analysis Pipeline](https://github.com/adnanhaider81/ddns-minion-vp1-pipeline) | Oxford Nanopore barcode review, VP1 reference screening, consensus calling and HTML/TSV reporting | [CI](https://github.com/adnanhaider81/ddns-minion-vp1-pipeline/actions/workflows/smoke-test.yml) · [Zenodo](https://doi.org/10.5281/zenodo.20257053) |
+| [Pakistan SARS-CoV-2 Nextstrain Build](https://github.com/adnanhaider81/pakistan-sars-cov-2-nextstrain-build) | Reproducible national build workflow, phylogenetic analysis and public visualization; maintained since 2022 | [Live build](https://nextstrain.org/community/NIH-BIGVI-PAKISTAN/ncov/Pakistan) · [CI](https://github.com/adnanhaider81/pakistan-sars-cov-2-nextstrain-build/actions/workflows/smoke-test.yml) · [Zenodo](https://doi.org/10.5281/zenodo.20257431) |
+| [Viral Genomics Nextflow Demo](https://github.com/adnanhaider81/viral-genomics-nextflow-demo) | Synthetic FASTQ-to-report workflow with Nextflow DSL2, containers and an end-to-end automated test | [CI](https://github.com/adnanhaider81/viral-genomics-nextflow-demo/actions/workflows/nextflow-smoke-test.yml) · [Release](https://github.com/adnanhaider81/viral-genomics-nextflow-demo/releases/latest) |
+| [Polio Whole-Capsid NGS Workflow](https://github.com/adnanhaider81/polio-capsid-ngs-analysis) | Illumina quality control, mapping, masked consensus, antigenic-site analysis and phylogeny | [CI](https://github.com/adnanhaider81/polio-capsid-ngs-analysis/actions/workflows/smoke-test.yml) · [Zenodo](https://doi.org/10.5281/zenodo.20257522) |
+| [Pathogen Discovery Pipeline](https://github.com/adnanhaider81/pathogen-discovery-pipeline) | Host subtraction and competitive confirmatory mapping for cautious metagenomic interpretation | [CI](https://github.com/adnanhaider81/pathogen-discovery-pipeline/actions/workflows/smoke-test.yml) · [Zenodo](https://doi.org/10.5281/zenodo.20257429) |
+| [CV-A24v Outbreak Genomics](https://github.com/adnanhaider81/cva24v-ahc-2023-analysis) | Publication-linked outbreak workflow with assembly, mapping, phylogenetics and amino-acid comparison | [CI](https://github.com/adnanhaider81/cva24v-ahc-2023-analysis/actions/workflows/smoke-test.yml) · [Paper](https://doi.org/10.1016/j.jviromet.2025.115213) |
 
-## Publication-linked software
+## Publication-linked workflows
 
-- [Coxsackievirus A24 variant outbreak genomics, Islamabad 2023](https://github.com/adnanhaider81/cva24v-ahc-2023-analysis) - Journal of Virological Methods, 2025; paper DOI: [10.1016/j.jviromet.2025.115213](https://doi.org/10.1016/j.jviromet.2025.115213).
-- [CCHFV segmented genome analysis, Pakistan 2022](https://github.com/adnanhaider81/cchfv-segmented-analysis-2022-pakistan) - Journal of Medical Virology, 2023; paper DOI: [10.1002/jmv.28604](https://doi.org/10.1002/jmv.28604).
-- [Dengue virus genomic diversity workflow, Pakistan 2023](https://github.com/adnanhaider81/denv-2023-pakistan-analysis) - Journal of Medical Virology, 2024; paper DOI: [10.1002/jmv.29727](https://doi.org/10.1002/jmv.29727).
-- [Mumps virus genotype G outbreak genomics, Islamabad 2023](https://github.com/adnanhaider81/mumps-2023-pakistan-analysis) - Future Virology, 2024; paper DOI: [10.2217/fvl-2023-0145](https://doi.org/10.2217/fvl-2023-0145).
-- [Mpox and varicella-zoster coinfection genomics, Pakistan 2023](https://github.com/adnanhaider81/mpox-vzv-coinfection-2023-pakistan) - Journal of Medical Virology, 2023; paper DOI: [10.1002/jmv.29037](https://doi.org/10.1002/jmv.29037).
-- [RSV outbreak genomics workflow, Islamabad 2022-2023](https://github.com/adnanhaider81/rsv-islamabad-2022-2023-pipeline) - Archives of Virology, 2024; paper DOI: [10.1007/s00705-024-06036-0](https://doi.org/10.1007/s00705-024-06036-0).
-- [SARS-CoV-2 fourth-wave genomics workflow, Pakistan 2021](https://github.com/adnanhaider81/sarscov2-fourth-wave-2021-pakistan) - Journal of Medical Virology, 2022; paper DOI: [10.1002/jmv.27957](https://doi.org/10.1002/jmv.27957).
+Public, reproducible workflows reflecting methods reported in peer-reviewed studies:
 
-## Current interests
+- [Coxsackievirus A24 variant outbreak genomics](https://github.com/adnanhaider81/cva24v-ahc-2023-analysis) — *Journal of Virological Methods* (2025), [DOI](https://doi.org/10.1016/j.jviromet.2025.115213).
+- [Dengue virus genomic diversity](https://github.com/adnanhaider81/denv-2023-pakistan-analysis) — *Journal of Medical Virology* (2024), [DOI](https://doi.org/10.1002/jmv.29727).
+- [Respiratory syncytial virus outbreak genomics](https://github.com/adnanhaider81/rsv-islamabad-2022-2023-pipeline) — *Archives of Virology* (2024), [DOI](https://doi.org/10.1007/s00705-024-06036-0).
 
-- Culture-free poliovirus detection
+[View the complete publication record on Google Scholar →](https://scholar.google.com/citations?user=EGyDc4kAAAAJ&hl=en)
+
+## Current focus
+
+- Direct poliovirus detection and sequencing workflows
 - Wastewater and environmental surveillance
-- Viral metagenomics
-- Reproducible genomics workflows
-- Capacity building for LMIC public-health laboratories
+- Viral metagenomics and confirmatory mapping
+- Reproducible genomics resources and hands-on training
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/sahaider/)
-- [Google Scholar](https://scholar.google.com/citations?user=EGyDc4kAAAAJ&hl=en)
-- [ORCID](https://orcid.org/0009-0008-7426-6561)
-- [ResearchGate](https://www.researchgate.net/profile/Syed-Haider/research)
-- [Blog](https://adnanhaider81.github.io/)
+- Portfolio: [syedadnanhaider.com](https://syedadnanhaider.com/)
+- Email: [adnan.haider@nih.org.pk](mailto:adnan.haider@nih.org.pk)
+- ORCID: [0009-0008-7426-6561](https://orcid.org/0009-0008-7426-6561)
