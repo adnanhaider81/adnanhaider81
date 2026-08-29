@@ -1,6 +1,6 @@
 # Syed Adnan Haider
 
-**Research scientist in pathogen genomics, connecting molecular biology and sequencing with reproducible bioinformatics for public-health surveillance.**
+**Research scientist in emerging, re-emerging and priority pathogen genomics, connecting molecular biology and sequencing with reproducible bioinformatics for public-health surveillance.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-syedadnanhaider.com-0B3D91?style=flat-square)](https://syedadnanhaider.com/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=EGyDc4kAAAAJ&hl=en)
@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sahaider-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahaider/)
 [![Nextstrain](https://img.shields.io/badge/Nextstrain-Pakistan%20build-008080?style=flat-square)](https://nextstrain.org/community/NIH-BIGVI-PAKISTAN/ncov/Pakistan)
 
-I work in the **Department of Virology, National Institute of Health, Islamabad, Pakistan**. My work connects molecular biology, Illumina and Oxford Nanopore sequencing, reproducible bioinformatics, phylogenetics, dashboards, standard operating procedures and technical reporting for public-health laboratories.
+I work in the **Department of Virology, National Institute of Health, Islamabad, Pakistan**, supporting genomic surveillance of emerging, re-emerging and priority pathogens, including poliovirus. My work connects molecular biology, Illumina and Oxford Nanopore sequencing, reproducible bioinformatics, phylogenetics, dashboards, standard operating procedures and technical reporting for public-health laboratories.
 
 ## Bench → code → evidence
 
@@ -39,10 +39,10 @@ Public, reproducible workflows reflecting methods reported in peer-reviewed stud
 
 ## Current focus
 
-- Direct poliovirus detection and sequencing workflows
+- Genomic surveillance of emerging, re-emerging and priority pathogens, including poliovirus
 - Wastewater and environmental surveillance
-- Viral metagenomics and confirmatory mapping
-- Reproducible genomics resources and hands-on training
+- Pathogen discovery, metagenomics and confirmatory mapping
+- Reproducible sequencing workflows, phylogenetics and hands-on training
 
 ## Contact
 
