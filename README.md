@@ -1,5 +1,7 @@
 # Syed Adnan Haider
 
+Also known as **Adnan Haider**.
+
 **Research scientist in emerging, re-emerging and priority pathogen genomics, connecting molecular biology and sequencing with reproducible bioinformatics for public-health surveillance.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-syedadnanhaider.com-0B3D91?style=flat-square)](https://syedadnanhaider.com/)
@@ -44,8 +46,15 @@ Public, reproducible workflows reflecting methods reported in peer-reviewed stud
 - Pathogen discovery, metagenomics and confirmatory mapping
 - Reproducible sequencing workflows, phylogenetics and hands-on training
 
+## Training and project portfolio
+
+- [Training, workshops and photographs](https://syedadnanhaider.com/training.html)
+- [Complete GitHub project directory](https://syedadnanhaider.com/projects.html)
+- [Free beginner series: Bioinformatics on a Windows PC](https://syedadnanhaider.com/learn/bioinformatics-on-windows/)
+
 ## Contact
 
 - Portfolio: [syedadnanhaider.com](https://syedadnanhaider.com/)
 - Email: [adnan.haider@nih.org.pk](mailto:adnan.haider@nih.org.pk)
 - ORCID: [0009-0008-7426-6561](https://orcid.org/0009-0008-7426-6561)
+
